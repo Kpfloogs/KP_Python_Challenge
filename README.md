@@ -1,8 +1,6 @@
 # KP_Python_Challenge
-Repo for uploading Python Challenge Assignment for BC
-
 -----------------------------------------
-DETAILED README TXT
+# DETAILED README TXT
 
 For both the pypoll and pybank challenges, I needed to create code that would mirror results in the bootcamp canvas. 
 
@@ -11,10 +9,10 @@ My process was slow going and frustrating at (read: most) times...I put in a lot
 I was particularly hung up with the Pybank challenge and how to make the code read through the csv, calculate the changes in each line, and then spit out the average (tears were spilt). After asking my class for hints and confusing Ask BCS repeatedly, I booked a tutor session and WOW, it was helpful. 
 
 The key was to tell the code to look at the ROWS and if one row was not the same as the row above it using the not equal to code !=. I was trying to determine how I could get the row to look at COLUMNS, which was incorrect (but would come later in the code for greatest and least change in profit/losses). 
-    if previousprofit != 0:
+    'if previousprofit != 0:
             change = currentprofit - previousprofit
             totalchange += change
-            changecounter += 1
+            changecounter += 1'
 
 I also had trouble figuring out the order of operations. It wasnt until I learned about LOCAL and GLOBAL variables that things started to click. 
 
