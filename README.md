@@ -4,7 +4,7 @@
 
 For both the pypoll and pybank challenges, I needed to create code that would mirror results in the bootcamp canvas. 
 
-My process was slow going and frustrating at (read: most) times...I put in a lot of studying but when it came to sitting down to write the code, ==my mind went blank.== 
+My process was slow going and frustrating at (read: most) times...I put in a lot of studying but when it came to sitting down to write the code, ==my mind went blank==.
 
 I was particularly hung up with the Pybank challenge and how to make the code read through the csv, calculate the changes in each line, and then spit out the average (tears were spilt). After asking my class for hints and confusing Ask BCS repeatedly, I booked a tutor session and WOW, it was helpful. 
 
