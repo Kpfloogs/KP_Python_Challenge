@@ -9,6 +9,7 @@ My process was slow going and frustrating at (read: most) times...I put in a lot
 I was particularly hung up with the Pybank challenge and how to make the code read through the csv, calculate the changes in each line, and then spit out the average (tears were spilt). After asking my class for hints and confusing Ask BCS repeatedly, I booked a tutor session and WOW, it was helpful. 
 
 The key was to tell the code to look at the ROWS and if one row was not the same as the row above it using the not equal to code !=. I was trying to determine how I could get the row to look at COLUMNS, which was incorrect (but would come later in the code for greatest and least change in profit/losses). 
+
     'if previousprofit != 0:
             change = currentprofit - previousprofit
             totalchange += change
