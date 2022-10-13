@@ -17,6 +17,6 @@ The key was to tell the code to look at the ROWS and if one row was not the same
 
 I also had trouble figuring out the order of operations. It wasnt until I learned about *local* and *Global* variables that things started to click. 
 
-The Pypoll challenge was a bit easier after the pybank trial as I do understand (at a beginner, uncomplex level) the simpler concepts of python, like if statements, dictionaries, and how to calculate percentages. I definitely was still hung up on how VBA works and had a bit of whiplash from changing languages and systems. I try to keep reminding myself =="Learning and Growth come with Struggle and Discomfort".== Still uneasy about Python (WHY do coders say it's the easiest language???) but hoping I get better and better over time. 
+The Pypoll challenge was a bit easier after the pybank trial as I do understand (at a beginner, uncomplex level) the simpler concepts of python, like if statements, dictionaries, and how to calculate percentages. I definitely was still hung up on how VBA works and had a bit of whiplash from changing languages and systems. I try to keep reminding myself **"Learning and Growth come with Struggle and Discomfort".** Still uneasy about Python (WHY do coders say it's the easiest language???) but hoping I get better and better over time. 
 
 If you've read this far, can you let me know if this is what you're looking for in a "detailed README file"?
